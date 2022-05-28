@@ -354,14 +354,14 @@
     <ClInclude Include="TutorialCube.h">
       <Filter>MainGame\Object\Tutorial</Filter>
     </ClInclude>
-    <ClInclude Include="TutorialPrint.h">
-      <Filter>MainGame\Object\Tutorial</Filter>
+    <ClInclude Include="Scene_Shop.h">
+      <Filter>MainGame\Scene</Filter>
     </ClInclude>
     <ClInclude Include="Coin.h">
       <Filter>MainGame\Object\Coin</Filter>
     </ClInclude>
-    <ClInclude Include="Scene_Shop.h">
-      <Filter>MainGame\Scene</Filter>
+    <ClInclude Include="TutorialPrint.h">
+      <Filter>MainGame\Object\Tutorial</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -557,14 +557,14 @@
     <ClCompile Include="TutorialCube.cpp">
       <Filter>MainGame\Object\Tutorial</Filter>
     </ClCompile>
-    <ClCompile Include="TutorialPrint.cpp">
-      <Filter>MainGame\Object\Tutorial</Filter>
+    <ClCompile Include="Scene_Shop.cpp">
+      <Filter>MainGame\Scene</Filter>
     </ClCompile>
     <ClCompile Include="Coin.cpp">
       <Filter>MainGame\Object\Coin</Filter>
     </ClCompile>
-    <ClCompile Include="Scene_Shop.cpp">
-      <Filter>MainGame\Scene</Filter>
+    <ClCompile Include="TutorialPrint.cpp">
+      <Filter>MainGame\Object\Tutorial</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

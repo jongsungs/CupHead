@@ -152,6 +152,7 @@
     <ClInclude Include="BackGround.h" />
     <ClInclude Include="Block.h" />
     <ClInclude Include="BulletManager.h" />
+    <ClInclude Include="Coin.h" />
     <ClInclude Include="FadeOut.h" />
     <ClInclude Include="Flower.h" />
     <ClInclude Include="IntersectManager.h" />
@@ -201,6 +202,7 @@
     <ClInclude Include="SceneTutorial.h" />
     <ClInclude Include="Scene_ElderHouse.h" />
     <ClInclude Include="Scene_OverWorld.h" />
+    <ClInclude Include="Scene_Shop.h" />
     <ClInclude Include="Scene_Start1.h" />
     <ClInclude Include="Scene_Start2.h" />
     <ClInclude Include="SoundPlayer.h" />
@@ -215,6 +217,7 @@
     <ClInclude Include="TutorialBlock.h" />
     <ClInclude Include="TutorialCube.h" />
     <ClInclude Include="TutorialExitDoor.h" />
+    <ClInclude Include="TutorialPrint.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="01_WinMain.cpp" />
@@ -222,6 +225,7 @@
     <ClCompile Include="BackGround.cpp" />
     <ClCompile Include="Block.cpp" />
     <ClCompile Include="BulletManager.cpp" />
+    <ClCompile Include="Coin.cpp" />
     <ClCompile Include="FadeOut.cpp" />
     <ClCompile Include="Flower.cpp" />
     <ClCompile Include="IntersectManager.cpp" />
@@ -273,6 +277,7 @@
     <ClCompile Include="SceneTutorial.cpp" />
     <ClCompile Include="Scene_ElderHouse.cpp" />
     <ClCompile Include="Scene_OverWorld.cpp" />
+    <ClCompile Include="Scene_Shop.cpp" />
     <ClCompile Include="Scene_Start1.cpp" />
     <ClCompile Include="Scene_Start2.cpp" />
     <ClCompile Include="SoundPlayer.cpp" />
@@ -286,6 +291,7 @@
     <ClCompile Include="TutorialBlock.cpp" />
     <ClCompile Include="TutorialCube.cpp" />
     <ClCompile Include="TutorialExitDoor.cpp" />
+    <ClCompile Include="TutorialPrint.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="01_WinMain.rc" />
